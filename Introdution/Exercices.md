@@ -2,7 +2,7 @@
 
 ---
 
-# 1) Qu'est-ce qu'un shell ?
+### 1) Qu'est-ce qu'un shell ?
 
 a. Un programme qui permet à l'utilisateur d'interagir avec le système d'exploitation via une interface graphique (GUI)
 
@@ -12,7 +12,7 @@ c. Un programme qui permet à l'utilisateur de naviguer sur Internet
 
 ---
 
-# 2) Quel est le shell original de Unix ?
+### 2) Quel est le shell original de Unix ?
 
 a. Bash
 
@@ -22,7 +22,7 @@ c. Sh
 
 ---
 
-# 3) Qu'est-ce que la globbing dans Bash ?
+### 3) Qu'est-ce que la globbing dans Bash ?
 
 a. Une méthode pour afficher le contenu d'un fichier
 
@@ -32,7 +32,7 @@ c. Une méthode pour étendre un modèle de nom de fichier en une liste de noms 
 
 ---
 
-# 4) Quelle est la commande pour afficher le répertoire courant dans Bash ?
+### 4) Quelle est la commande pour afficher le répertoire courant dans Bash ?
 
 a. pwd
 
@@ -42,7 +42,7 @@ c. cd
 
 ---
 
-5) Qu'est-ce qu'un alias dans Bash ?
+### 5) Qu'est-ce qu'un alias dans Bash ?
 
 a. Une commande qui permet de créer des raccourcis pour des commandes ou des séquences de commandes
 
