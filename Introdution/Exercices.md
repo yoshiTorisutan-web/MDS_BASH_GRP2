@@ -3,8 +3,11 @@
 ---
 
 Qu'est-ce qu'un shell ?
+
 a. Un programme qui permet à l'utilisateur d'interagir avec le système d'exploitation via une interface graphique (GUI)
+
 b. Un programme qui permet à l'utilisateur d'interagir avec le système d'exploitation via une interface en ligne de commande (CLI)
+
 c. Un programme qui permet à l'utilisateur de naviguer sur Internet
 
 Réponse : b
