@@ -27,5 +27,12 @@ Le Lead Dev devra commencer par organiser des issues et des Milestones. Chaque i
 1 dossier par milestone (qui contiendra les markdown)
 1 fichier markdown par cours (rangés dans les dossiers des milestones). Chaque cours devra être explicite, présenter la commande / fonction concernée, et intégrer un ou plusieurs exercices pour permettre de pratiquer ! (1 cours = 1 notion)
 
-
 --- 
+
+### Tâches à faire :
+
+- [x] Faire l'introduction
+- [ ] Faire le chapitre 1
+- [x] Faire le chapitre 2
+- [ ] Faire le chapitre 3
+- [ ] Faire le chapitre 4
