@@ -31,8 +31,8 @@ Le Lead Dev devra commencer par organiser des issues et des Milestones. Chaque i
 
 ### Tâches à faire :
 
-- [x] Faire l'introduction
+- [ ] Faire l'introduction
 - [ ] Faire le chapitre 1
-- [x] Faire le chapitre 2
+- [ ] Faire le chapitre 2
 - [ ] Faire le chapitre 3
 - [ ] Faire le chapitre 4
