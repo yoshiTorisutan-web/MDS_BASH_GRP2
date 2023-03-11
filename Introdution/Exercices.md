@@ -10,8 +10,6 @@ b. Un programme qui permet à l'utilisateur d'interagir avec le système d'explo
 
 c. Un programme qui permet à l'utilisateur de naviguer sur Internet
 
-Réponse : b
-
 ---
 
 2) Quel est le shell original de Unix ?
@@ -21,8 +19,6 @@ a. Bash
 b. Csh
 
 c. Sh
-
-Réponse : c
 
 ---
 
@@ -34,8 +30,6 @@ b. Une méthode pour créer des liens symboliques
 
 c. Une méthode pour étendre un modèle de nom de fichier en une liste de noms de fichier correspondants
 
-Réponse : c
-
 ---
 
 4) Quelle est la commande pour afficher le répertoire courant dans Bash ?
@@ -46,8 +40,6 @@ b. ls
 
 c. cd
 
-Réponse : a
-
 ---
 
 5) Qu'est-ce qu'un alias dans Bash ?
@@ -57,7 +49,5 @@ a. Une commande qui permet de créer des raccourcis pour des commandes ou des s�
 b. Une commande qui permet de renommer un fichier
 
 c. Une commande qui permet de supprimer un fichier
-
-Réponse : a
 
 ---
