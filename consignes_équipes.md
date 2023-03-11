@@ -1,4 +1,4 @@
-GRP2
+### GRP2
 * Leon Cha
 * Damien Dubernet
 * Tristan Bossard (Responsable)
@@ -6,12 +6,12 @@ GRP2
 
 ---
 
-* Énoncé
+### Énoncé
 Réaliser un cours de Shell (Bash) en markdown 😁
 
 ---
 
-* Organisation
+### Organisation
 Vous devez définir un chef de groupe, qui sera responsable du repository ET de la gestions des Pull Requests (rôle lead dev).
 
 Chaque groupe doit travailler sur 1 repository unique (propriété du lead dev) et tous les membres du groupe doivent être mis en tant que Collaborateur.
@@ -20,7 +20,7 @@ Le Lead Dev devra commencer par organiser des issues et des Milestones. Chaque i
 
 ---
 
-* Livrables
+### Livrables
 1 repository contenant :
 
 1 fichier readme.md, qui correspond à un sommaire de tous les cours que vous allez réaliser.
