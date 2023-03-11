@@ -4,8 +4,12 @@ GRP2
 * Tristan Bossard (Responsable)
 * Clément Paquentin
 
+---
+
 * Énoncé
 Réaliser un cours de Shell (Bash) en markdown 😁
+
+---
 
 * Organisation
 Vous devez définir un chef de groupe, qui sera responsable du repository ET de la gestions des Pull Requests (rôle lead dev).
@@ -13,6 +17,8 @@ Vous devez définir un chef de groupe, qui sera responsable du repository ET de 
 Chaque groupe doit travailler sur 1 repository unique (propriété du lead dev) et tous les membres du groupe doivent être mis en tant que Collaborateur.
 
 Le Lead Dev devra commencer par organiser des issues et des Milestones. Chaque issue devra être assignée et un temps de réalisation devra être renseigné.
+
+---
 
 * Livrables
 1 repository contenant :
