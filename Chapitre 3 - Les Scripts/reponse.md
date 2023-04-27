@@ -1,42 +1,42 @@
 1. Qu'est-ce qu'un script en bash ?
 - [ ] Un programme écrit dans un langage de programmation.
 - [ ] Un outil de traitement de texte.
-- [ ] Un programme écrit dans le langage de script bash.
+- [x] Un programme écrit dans le langage de script bash.
 - [ ] Du javascript
 
 2. Quelle est l'extension de fichier utilisée pour les scripts en bash ?
 - [ ] .exe
-- [ ] .sh
+- [x] .sh
 - [ ] .bat
 - [ ] .py
 
 3. Comment rendre un script en bash exécutable ?
 - [ ] En le compilant avec un compilateur.
 - [ ] En l'ouvrant avec un éditeur de texte.
-- [ ] En utilisant la commande chmod +x.
+- [x] En utilisant la commande chmod +x.
 - [ ] En le copiant dans le répertoire système.
 
 4. Comment exécuter un script en bash ?
 - [ ] En double-cliquant sur le fichier.
-- [ ] En tapant ./nom_du_script.sh.
+- [x] En tapant ./nom_du_script.sh.
 - [ ] En tapant nom_du_script.sh.
 - [ ] En utilisant la commande run.
 
 5. Comment créer une variable en bash ?
-- [ ] En assignant une valeur à un nom.
+- [x] En assignant une valeur à un nom.
 - [ ] En utilisant la commande create_variable.
 - [ ] En utilisant la commande set.
 - [ ] En tapant simplement le nom de la variable.
 
 6. Comment afficher la valeur d'une variable en bash ?
 - [ ] En utilisant la commande print.
-- [ ] En utilisant la commande echo suivi du nom de la variable entouré de $.
+- [x] En utilisant la commande echo suivi du nom de la variable entouré de $.
 - [ ] En tapant simplement le nom de la variable.
 - [ ] En utilisant la commande display.
 
 7. Quelle est la boucle la plus couramment utilisée en bash ?
 - [ ] While.
-- [ ] For.
+- [x] For.
 - [ ] Do-While.
 - [ ] Repeat-Until.
 
@@ -45,7 +45,7 @@
   do
   echo $i
   done
-- [ ] for i in {1..10}
+- [x] for i in {1..10}
   do
   echo $i
   done
@@ -63,7 +63,7 @@
   then
   instruction
   fi
-- [ ] if [ condition ]
+- [x] if [ condition ]
   then
   instruction
   fi
@@ -76,7 +76,7 @@
   then
   echo "Bonjour"
   fi
-- [ ] if [ $nom == "Alice" ]
+- [x] if [ $nom == "Alice" ]
   then
   echo "Bonjour"
   fi
