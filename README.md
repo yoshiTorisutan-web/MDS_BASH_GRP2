@@ -2,7 +2,7 @@
 
 ## I - Introduction de Shell et de Bash
 
-[Introduction de Shell et de Bash](https://github.com/yoshiTorisutan-web/MDS_BASH_GRP2/tree/main/Introdution").
+[Introduction de Shell et de Bash](https://github.com/yoshiTorisutan-web/MDS_BASH_GRP2/tree/main/Introdution).
 
 ## II - Variable Environnement
 
