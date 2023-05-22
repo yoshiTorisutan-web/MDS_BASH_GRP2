@@ -16,4 +16,6 @@ Lien : [Les Scripts](https://github.com/yoshiTorisutan-web/MDS_BASH_GRP2/tree/ma
 
 Lien : [Gestion de fichiers et de répertoires](https://github.com/yoshiTorisutan-web/MDS_BASH_GRP2/tree/main/Chapitre%204%20-%20Gestion%20de%20fichiers%20et%20de%20r%C3%A9pertoires).
 
+
+
 ![J'ai pas compris](https://cdn.discordapp.com/attachments/1083070323399852143/1110143511937945610/FHJXL4YXwAIw54x.png)
